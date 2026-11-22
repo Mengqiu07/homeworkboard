@@ -45,3 +45,9 @@ homework-board-public/
 本项目采用 [MIT License](LICENSE)。Python、Qt/PySide6、Pillow 等第三方组件仍使用各自的许可证，相关声明和许可文本已嵌入 EXE，MIT 不替代第三方许可证。
 
 制作者：[Mengqiu07（李羿嵘）](https://github.com/Mengqiu07)。
+
+## 使用与定制说明
+
+用户请从 GitHub Releases 下载 EXE 后直接使用。未经作者书面许可，不得对 EXE 进行反向工程、反编译、反汇编、破解、修改、提取代码或重新打包分发。
+
+如需定制版，请联系：lyr_0807@163.com。
